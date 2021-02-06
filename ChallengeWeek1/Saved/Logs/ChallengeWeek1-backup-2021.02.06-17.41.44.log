@@ -1,0 +1,1197 @@
+﻿Log file open, 02/06/21 16:01:49
+LogInit: Display: Running engine for game: ChallengeWeek1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.208249
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line:  -EpicPortal -epicusername=GTMonoChrm -epicuserid=7215e8c196f74a129128ec38bc685c28 -epiclocale=en
+LogInit: Base Directory: C:/Unreal/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Engine.ini]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Engine.ini]
+[2021.02.06-16.01.50:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Engine.ini]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.06-16.01.50:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Engine.ini]
+[2021.02.06-16.01.50:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.06-16.01.50:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Engine.ini]
+[2021.02.06-16.01.50:289][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Engine.ini]
+[2021.02.06-16.01.50:292][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.06-16.01.50:292][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.06-16.01.50:293][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.06-16.01.50:294][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.06-16.01.50:294][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.06-16.01.50:294][  0]LogHAL: Display: Platform has ~ 16 GB [17002713088 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.06-16.01.50:294][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.06-16.01.50:294][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.06-16.01.50:294][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.02.06-16.01.50:295][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Scalability.ini]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.06-16.01.50:296][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Config/Windows/Engine.ini]
+[2021.02.06-16.01.50:296][  0]LogInit: Computer: DEVGAME
+[2021.02.06-16.01.50:296][  0]LogInit: User: giant
+[2021.02.06-16.01.50:296][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.02.06-16.01.50:296][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.06-16.01.50:296][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2021.02.06-16.01.50:297][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.06-16.01.50:297][  0]LogMemory: Process Physical Memory: 115.94 MB used, 115.95 MB peak
+[2021.02.06-16.01.50:297][  0]LogMemory: Process Virtual Memory: 97.21 MB used, 97.22 MB peak
+[2021.02.06-16.01.50:297][  0]LogMemory: Physical Memory: 9459.20 MB used,  6755.85 MB free, 16215.05 MB total
+[2021.02.06-16.01.50:297][  0]LogMemory: Virtual Memory: 5132.26 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2021.02.06-16.01.50:302][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.06-16.01.50:338][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.06-16.01.50:339][  0]LogInit: Using OS detected language (en-GB).
+[2021.02.06-16.01.50:339][  0]LogInit: Using OS detected locale (en-GB).
+[2021.02.06-16.01.50:343][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.02.06-16.01.50:515][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.06-16.01.50:548][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.06-16.01.50:548][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.06-16.01.50:778][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.06-16.01.50:778][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.06-16.01.50:778][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.06-16.01.50:778][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.06-16.01.50:853][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.02.06-16.01.50:853][  0]LogD3D11RHI:       5980/0/8107 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.02.06-16.01.50:878][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2021.02.06-16.01.50:878][  0]LogD3D11RHI:       128/0/8107 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.02.06-16.01.50:880][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.06-16.01.50:881][  0]LogD3D11RHI:       0/0/8107 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.06-16.01.50:881][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.06-16.01.50:912][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.06-16.01.50:912][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.06-16.01.50:912][  0]LogWindows: EnumDisplayDevices:
+[2021.02.06-16.01.50:912][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2021.02.06-16.01.50:912][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.02.06-16.01.50:913][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2021.02.06-16.01.50:913][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.02.06-16.01.50:913][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.02.06-16.01.50:914][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.02.06-16.01.50:914][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.02.06-16.01.50:914][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.02.06-16.01.50:914][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.02.06-16.01.50:914][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2021.02.06-16.01.50:914][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2021.02.06-16.01.50:914][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.02.06-16.01.50:972][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.06-16.01.50:972][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.06-16.01.50:972][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.06-16.01.50:986][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.06-16.01.51:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.06-16.01.51:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.06-16.01.51:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.06-16.01.51:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.06-16.01.51:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.06-16.01.51:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.06-16.01.51:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.06-16.01.51:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.06-16.01.51:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.06-16.01.51:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.06-16.01.51:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.06-16.01.51:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.06-16.01.51:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.06-16.01.51:355][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.06-16.01.51:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.06-16.01.51:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.06-16.01.51:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.06-16.01.51:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.06-16.01.51:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.06-16.01.51:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.06-16.01.51:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.06-16.01.51:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.06-16.01.51:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.06-16.01.51:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.06-16.01.51:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.06-16.01.51:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.06-16.01.51:497][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.06-16.01.51:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.06-16.01.51:507][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.06-16.01.51:516][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.06-16.01.51:583][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Intermediate/Shaders/WorkingDirectory/8336/).
+[2021.02.06-16.01.51:583][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/giant/AppData/Local/Temp/UnrealShaderWorkingDir/087BFB934B5D504D34075AA8CFA56B5B/'.
+[2021.02.06-16.01.51:583][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.02.06-16.01.51:583][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.06-16.01.51:583][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.06-16.01.52:435][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.06-16.01.52:482][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/giant/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.06-16.01.52:482][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/giant/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.02.06-16.01.52:482][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.06-16.01.52:482][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.06-16.01.52:482][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.06-16.01.52:482][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.06-16.01.52:492][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.06-16.01.52:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.06-16.01.52:492][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.06-16.01.52:494][  0]LogDerivedDataCache: Using Local data cache path C:/Users/giant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.06-16.01.52:494][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.06-16.01.52:494][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.06-16.01.52:546][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.06-16.01.52:547][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.06-16.01.52:571][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.02.06-16.01.52:811][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.06-16.01.52:932][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.06-16.01.52:932][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.06-16.01.52:932][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.06-16.01.52:932][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.06-16.01.52:932][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.06-16.01.52:946][  0]LogNetVersion: ChallengeWeek1 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 29154476)
+[2021.02.06-16.01.53:367][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000014B7E30DBC0), frame # 0
+[2021.02.06-16.01.53:367][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014B7E272AC0), frame # 0
+[2021.02.06-16.01.53:368][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000014B7E2BDE00), frame # 0
+[2021.02.06-16.01.53:405][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.032160 seconds
+[2021.02.06-16.01.53:410][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.02.06-16.01.53:410][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.02.06-16.01.53:410][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.06-16.01.53:752][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.06-16.01.53:757][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.06-16.01.53:837][  0]SourceControl: Source control is disabled
+[2021.02.06-16.01.53:838][  0]SourceControl: Source control is disabled
+[2021.02.06-16.01.53:841][  0]SourceControl: Source control is disabled
+[2021.02.06-16.01.53:844][  0]SourceControl: Source control is disabled
+[2021.02.06-16.01.53:851][  0]SourceControl: Source control is disabled
+[2021.02.06-16.01.54:102][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.06-16.01.54:122][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.06-16.01.54:122][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.06-16.01.54:172][  0]LogOcInput: OculusInput pre-init called
+[2021.02.06-16.01.54:184][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.06-16.01.54:184][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.06-16.01.54:246][  0]LogEngine: Initializing Engine...
+[2021.02.06-16.01.54:247][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.06-16.01.54:247][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.06-16.01.54:248][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.02.06-16.01.54:361][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.06-16.01.54:368][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.06-16.01.54:368][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000014B01747C00), frame # 0
+[2021.02.06-16.01.54:368][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014B017F5A80), frame # 0
+[2021.02.06-16.01.54:383][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.06-16.01.54:383][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.06-16.01.54:383][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.06-16.01.54:383][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.06-16.01.54:383][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.06-16.01.54:383][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.06-16.01.54:383][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.06-16.01.54:383][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.06-16.01.54:383][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.06-16.01.54:383][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.06-16.01.54:406][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.06-16.01.54:406][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.06-16.01.54:460][  0]LogAudioMixer: Display: Using Audio Device Headphones (IFROGZ Resound Wireless Stereo)
+[2021.02.06-16.01.54:464][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.06-16.01.54:466][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.06-16.01.54:466][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.06-16.01.54:467][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.06-16.01.54:468][  0]LogInit: FAudioDevice initialized.
+[2021.02.06-16.01.54:468][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.06-16.01.54:506][  0]LogDerivedDataCache: Saved boot cache 0.04s 75MB C:/Users/giant/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.02.06-16.01.54:507][  0]LogInit: Texture streaming: Enabled
+[2021.02.06-16.01.54:522][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.06-16.01.54:522][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.06-16.01.54:527][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.06-16.01.54:560][  0]LogInit: Transaction tracking system initialized
+[2021.02.06-16.01.54:581][  0]BlueprintLog: New page: Editor Load
+[2021.02.06-16.01.54:647][  0]LocalizationService: Localization service is disabled
+[2021.02.06-16.01.54:796][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.02.06-16.01.54:796][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.06-16.01.54:933][  0]LogFileCache: Scanning file cache for directory 'C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/' took 0.01s
+[2021.02.06-16.01.55:161][  0]SourceControl: Source control is disabled
+[2021.02.06-16.01.55:161][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.983
+[2021.02.06-16.01.55:161][  0]Cmd: MAP LOAD FILE="../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.06-16.01.55:161][  0]LightingResults: New page: Lighting Build
+[2021.02.06-16.01.55:162][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-16.01.55:162][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-16.01.55:162][  0]MapCheck: New page: Map Check
+[2021.02.06-16.01.55:162][  0]LightingResults: New page: Lighting Build
+[2021.02.06-16.01.55:173][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000014B01747C00), frame # 0
+[2021.02.06-16.01.55:173][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014B017F5A80), frame # 0
+[2021.02.06-16.01.55:173][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.02.06-16.01.55:393][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.06-16.01.55:393][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000014B06DD3E00), frame # 0
+[2021.02.06-16.01.55:393][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014B06DCFB00), frame # 0
+[2021.02.06-16.01.55:398][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.06-16.01.55:411][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.06-16.01.55:412][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.06-16.01.55:412][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.172ms to complete.
+[2021.02.06-16.01.55:412][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.250
+[2021.02.06-16.01.55:413][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.234
+[2021.02.06-16.01.55:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-16.01.55:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-16.01.55:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-16.01.55:539][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.06-16.01.55:547][  0]LogCollectionManager: Loaded 0 collections in 0.001557 seconds
+[2021.02.06-16.01.55:560][  0]LogFileCache: Scanning file cache for directory 'C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/Collections/' took 0.00s
+[2021.02.06-16.01.55:560][  0]LogFileCache: Scanning file cache for directory 'C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/Developers/giant/Collections/' took 0.00s
+[2021.02.06-16.01.55:560][  0]LogFileCache: Scanning file cache for directory 'C:/Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/Collections/' took 0.00s
+[2021.02.06-16.01.55:560][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3427 classes and 821 folders.
+[2021.02.06-16.01.55:563][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.02.06-16.01.55:631][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.06-16.01.55:674][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.06-16.01.55:678][  0]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.06-16.01.55:681][  0]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.06-16.01.55:745][  0]LogRenderer: Reallocating scene render targets to support 964x508 Format 10 NumSamples 1 (Frame:1).
+[2021.02.06-16.01.55:850][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.02.06-16.01.55:850][  0]LogLoad: (Engine Initialization) Total time: 7.67 seconds
+[2021.02.06-16.01.55:850][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.06-16.01.55:900][  0]LogAssetRegistry: Asset discovery search completed in 3.3296 seconds
+[2021.02.06-16.01.55:906][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.02.06-16.01.55:908][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.06-16.01.55:934][  0]LogSlate: Took 0.000630 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.06-16.02.13:153][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.06-16.02.14:417][ 35]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2021.02.06-16.02.20:115][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.06-16.02.21:795][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.02.06-16.02.22:637][975]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.02.06-16.02.22:939][999]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.02.06-16.02.23:627][ 60]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.06-16.02.23:656][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.02.06-16.02.23:686][ 60]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap3100A65F4D4366AEC86D00B1EF8D4FD2.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.02.23:847][ 60]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData8FE7AACC45587D12B466349CE1CE145E.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.02.23:857][ 60]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.02.23:857][ 60]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.02.23:857][ 60]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.02.53:414][547]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2021.02.06-16.02.54:575][678]Cmd: DELETE
+[2021.02.06-16.02.54:575][678]Cmd: ACTOR DELETE
+[2021.02.06-16.02.54:589][678]LogEditorActor: Deleted Actor: Actor
+[2021.02.06-16.02.54:599][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.02.06-16.02.54:602][678]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.02.06-16.02.59:966][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.02.06-16.02.59:987][873]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap0F2E9B4940802DC1D829E0B5D667B3A6.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.03.00:090][873]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData93389A9145FBA3E1F0622B8AA8E8D90C.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.03.00:101][873]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.03.00:102][873]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.03.00:102][873]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.04.04:060][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.06-16.04.04:447][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.02.06-16.04.04:471][521]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMapC6DE05C0426BC72F628E07B8BC695DE7.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.04.04:569][521]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataAF1D9A434982CB96D18CAFB58C32DDA7.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.04.04:579][521]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.04.04:579][521]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.04.04:579][521]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.04.50:596][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.06-16.05.15:212][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.02.06-16.05.15:235][543]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap864773124D8AB9CB6F9006ABBD41A5CC.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.05.15:332][543]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataE7B225954FCE0387BF89C29B01A7F675.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.05.15:342][543]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.05.15:342][543]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.05.15:342][543]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.05.16:212][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.02.06-16.05.16:235][637]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMapB04A407A4A1EADE121FA6696B46A915C.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.05.16:330][637]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData40F63D32449857F06F20EFA3AC0C1A56.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.05.16:340][637]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.05.16:340][637]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.05.16:340][637]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.07.57:589][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.06-16.09.33:653][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2021.02.06-16.09.37:225][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.02.06-16.09.37:266][655]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMapF072DB974A1433CA82D069ACE24C85F4.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.09.37:348][655]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataBFA99B7F45B60B00050391857E624BD6.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.09.37:359][655]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.09.37:359][655]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.09.37:360][655]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.09.38:654][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.02.06-16.09.38:676][790]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMapB331A987405D4B377FC913B0B816C78A.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.09.38:757][790]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData20CC960E44CE94D0057861B3EE918EFD.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.09.38:766][790]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.09.38:766][790]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.09.38:766][790]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.09.39:127][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.02.06-16.09.39:146][827]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap9F0C300243C9D6952E6DD2A053A95B6E.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.09.39:234][827]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData8BD1245547386836B6DDD19646715AE0.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.09.39:243][827]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.09.39:243][827]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.09.39:243][827]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.09.42:184][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.02.06-16.09.42:205][119]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMapE79C64AD43C16C40670DEA9C6A083EE2.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.09.42:292][119]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataE26C3FC848B56F40A0BD21B02D531F36.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.09.42:303][119]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.09.42:303][119]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.09.42:303][119]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.13.32:322][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.02.06-16.13.32:352][140]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap6B6596A7448EA27AD016C0986327075F.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.13.32:445][140]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData62CED3B74A8FC069F8B705AB80911C34.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.13.32:456][140]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.13.32:456][140]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.13.32:456][140]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.13.32:970][184]LogSlate: Took 0.001938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.06-16.27.06:582][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.02.06-16.27.06:615][ 17]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap950F52EA4DB0A775F58E0B83A2B54931.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.27.06:733][ 17]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData70C052AB425C8F01DBBA1DA032911CA4.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.27.06:758][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.27.06:758][ 17]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.27.06:758][ 17]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.41.45:608][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.06-16.41.46:776][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2021.02.06-16.41.47:087][973]Cmd: TRANSACTION UNDO
+[2021.02.06-16.41.47:087][973]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.06-16.41.47:327][980]Cmd: TRANSACTION UNDO
+[2021.02.06-16.41.47:327][980]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.06-16.50.42:774][729]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.02.06-16.50.48:257][ 50]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.02.06-16.50.48:855][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.02.06-16.50.48:965][ 90]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.02.06-16.50.49:232][105]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.02.06-16.50.54:527][411]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.50.54:532][411]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 90
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 89
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 88
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 87
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 86
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 85
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 84
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 83
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 82
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 81
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 80
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 79
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 78
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 77
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 76
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 75
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 74
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 73
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 72
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 71
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 70
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 69
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 68
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 67
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 65
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 64
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 63
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 62
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 61
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 60
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 56
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 55
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 54
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 53
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 51
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 50
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 45
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 40
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 38
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 31
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.02.06-16.51.00:047][411]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.02.06-16.52.01:840][673]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2021.02.06-16.52.02:968][673]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-16.52.02:968][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-16.52.03:242][673]LogRenderer: Reallocating scene render targets to support 1144x744 Format 10 NumSamples 1 (Frame:1).
+[2021.02.06-16.52.11:016][ 27]LogSlate: Window 'SM_SkySphere' being destroyed
+[2021.02.06-16.52.11:063][ 27]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-16.52.11:064][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-16.53.00:857][476]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.02.06-16.53.12:018][148]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.02.06-16.53.14:814][275]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.14:814][275]LogEditorTransaction: Undo Replace component used material
+[2021.02.06-16.53.15:084][280]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.15:084][280]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.53.15:240][284]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.15:240][284]LogEditorTransaction: Undo Replace component used material
+[2021.02.06-16.53.15:422][296]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.15:422][296]LogEditorTransaction: Undo Replace component used material
+[2021.02.06-16.53.15:587][312]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.15:587][312]LogEditorTransaction: Undo Replace component used material
+[2021.02.06-16.53.15:760][329]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.15:760][329]LogEditorTransaction: Undo Replace component used material
+[2021.02.06-16.53.23:024][805]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.02.06-16.53.29:265][133]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.29:266][133]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2021.02.06-16.53.29:539][139]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.29:539][139]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2021.02.06-16.53.29:778][143]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.29:779][143]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2021.02.06-16.53.30:249][161]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.30:249][161]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2021.02.06-16.53.31:858][281]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.02.06-16.54.06:548][401]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 38
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.06-16.55.08:225][319]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.02.06-16.55.08:693][354]LogEditorViewport: Clicking Background
+[2021.02.06-16.55.09:081][372]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.02.06-16.55.09:991][406]LogEditorViewport: Clicking Background
+[2021.02.06-16.55.57:430][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.02.06-16.55.57:454][336]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.55.57:637][336]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMapC62453B340A552F8493682B0CC942F37.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.55.57:945][336]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataC590041E42AEF2610BFA9D9476B4F375.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.55.57:979][336]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.55.57:979][336]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.55.57:979][336]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.57.07:464][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.06-16.57.09:215][581]LogSlate: Window 'Save Content' being destroyed
+[2021.02.06-16.57.10:334][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.02.06-16.57.11:318][640]LogSlate: Window 'Save Content' being destroyed
+[2021.02.06-16.57.11:379][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.02.06-16.57.11:393][640]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.57.11:512][640]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap008628DF418226723F021295CE1A0C35.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.57.11:530][640]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.169
+[2021.02.06-16.57.11:642][640]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData440CA99F4AB044D9802789BE8D4873E3.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.57.11:663][640]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.57.11:663][640]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.57.11:663][640]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.57.12:712][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.02.06-16.57.12:955][712]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap5F321B9642F41026E98F5987697F266E.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.57.13:213][712]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData1484AA3E4AE6ACE3A4F2E0A0E32AFD98.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.57.13:249][712]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.57.13:249][712]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.57.13:249][712]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.58.08:475][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.06-16.58.08:849][688]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap15A6F7924F4999C43DC4B1AFDE214A34.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.58.09:209][688]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataBFA9DF4E42CC9B2727EAF3AC2ECF5688.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.58.09:229][688]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.58.09:229][688]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.58.09:229][688]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.58.22:297][482]Cmd: TRANSACTION UNDO
+[2021.02.06-16.58.22:297][482]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2021.02.06-16.58.22:342][482]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.58.23:754][523]Cmd: TRANSACTION UNDO
+[2021.02.06-16.58.23:754][523]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-16.58.57:390][ 90]Cmd: TRANSACTION UNDO
+[2021.02.06-16.58.57:390][ 90]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.58.57:442][ 90]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.58.57:640][ 98]Cmd: TRANSACTION UNDO
+[2021.02.06-16.58.57:640][ 98]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.58.57:684][ 98]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.58.57:804][101]Cmd: TRANSACTION UNDO
+[2021.02.06-16.58.57:804][101]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.59.44:204][399]Cmd: TRANSACTION UNDO
+[2021.02.06-16.59.44:204][399]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.59.44:303][399]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.59.44:444][403]Cmd: TRANSACTION UNDO
+[2021.02.06-16.59.44:444][403]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.59.44:525][403]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.59.44:620][405]Cmd: TRANSACTION UNDO
+[2021.02.06-16.59.44:620][405]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.59.44:699][405]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.59.49:847][627]Cmd: TRANSACTION UNDO
+[2021.02.06-16.59.49:847][627]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.00.21:885][104]LogEditorViewport: Clicking Background
+[2021.02.06-17.00.22:264][119]LogEditorViewport: Clicking Background
+[2021.02.06-17.00.24:372][196]LogEditorViewport: Clicking Background
+[2021.02.06-17.00.24:629][217]LogEditorViewport: Clicking Background
+[2021.02.06-17.00.53:688][231]LogEditorViewport: Clicking Background
+[2021.02.06-17.00.54:028][255]LogEditorViewport: Clicking Background
+[2021.02.06-17.01.19:796][284]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.19:796][284]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.02.06-17.01.19:975][284]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:018][284]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:019][284]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.02.06-17.01.20:135][284]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:157][284]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:157][284]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.02.06-17.01.20:254][284]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:358][286]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:358][286]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.20:420][286]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:490][288]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:490][288]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.20:562][288]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:655][292]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:655][292]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.20:740][292]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:835][296]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:835][296]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.20:916][296]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:004][300]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:004][300]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:081][300]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:180][304]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:180][304]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:262][304]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:364][309]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:364][309]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:435][309]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:555][315]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:555][315]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:648][315]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:739][319]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:739][319]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:825][319]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:920][323]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:920][323]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:989][323]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.22:116][330]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.22:116][330]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.22:193][330]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.22:325][336]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.22:325][336]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.22:414][336]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.22:502][340]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.22:502][340]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.22:577][340]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.22:704][346]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.22:704][346]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.22:784][346]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.22:902][352]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.22:902][352]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.22:965][352]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.23:077][357]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.23:077][357]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.23:147][357]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.23:269][363]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.23:270][363]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.23:333][363]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.23:466][370]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.23:466][370]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.23:540][370]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.23:644][375]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.23:644][375]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.23:744][375]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.23:868][381]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.23:868][381]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.23:953][381]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.24:062][386]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.24:062][386]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.24:159][386]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.24:249][390]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.24:249][390]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.24:339][390]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.24:445][395]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.24:445][395]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.06-17.01.24:628][405]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.24:628][405]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.24:708][405]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.24:816][411]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.24:816][411]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.24:898][411]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.25:003][417]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.25:003][417]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.25:073][417]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.25:192][424]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.25:192][424]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.25:258][424]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.26:685][512]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.26:686][512]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.26:856][512]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.26:884][512]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.26:884][512]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.27:029][512]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.43:716][167]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.43:716][167]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.43:886][167]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.44:303][185]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.44:303][185]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.44:377][185]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.44:663][210]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.44:663][210]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.44:723][210]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.03.49:881][205]Cmd: TRANSACTION UNDO
+[2021.02.06-17.03.49:882][205]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.03.50:029][205]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.03.52:974][314]Cmd: TRANSACTION UNDO
+[2021.02.06-17.03.52:974][314]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.05.40:288][ 36]LogTexture: Display: Building textures: Texture2D_1 (G8, 64X64)
+[2021.02.06-17.05.40:291][ 36]LogTexture: Display: Building textures: Texture2D_2 (G8, 64X64)
+[2021.02.06-17.05.40:293][ 36]LogTexture: Display: Building textures: Texture2D_3 (G8, 64X64)
+[2021.02.06-17.05.40:296][ 36]LogTexture: Display: Building textures: Texture2D_4 (G8, 64X64)
+[2021.02.06-17.05.40:412][ 38]LogTexture: Display: Building textures: Texture2D_5 (G8, 64X64)
+[2021.02.06-17.05.40:477][ 40]LogTexture: Display: Building textures: Texture2D_6 (G8, 64X64)
+[2021.02.06-17.05.40:760][ 49]LogTexture: Display: Building textures: Texture2D_7 (G8, 64X64)
+[2021.02.06-17.05.41:184][ 62]LogTexture: Display: Building textures: Texture2D_8 (G8, 64X64)
+[2021.02.06-17.05.41:403][ 74]LogTexture: Display: Building textures: Texture2D_9 (G8, 64X64)
+[2021.02.06-17.05.41:417][ 74]LogTexture: Display: Building textures: Texture2D_10 (G8, 64X64)
+[2021.02.06-17.05.42:103][117]Cmd: TRANSACTION UNDO
+[2021.02.06-17.05.42:103][117]LogEditorTransaction: Undo Landscape Editing: Region Selection
+[2021.02.06-17.05.48:423][352]LogTexture: Display: Building textures: Texture2D_11 (G8, 64X64)
+[2021.02.06-17.05.48:429][352]LogTexture: Display: Building textures: Texture2D_12 (G8, 64X64)
+[2021.02.06-17.05.48:435][352]LogTexture: Display: Building textures: Texture2D_13 (G8, 64X64)
+[2021.02.06-17.05.48:443][352]LogTexture: Display: Building textures: Texture2D_14 (G8, 64X64)
+[2021.02.06-17.05.48:450][352]LogTexture: Display: Building textures: Texture2D_15 (G8, 64X64)
+[2021.02.06-17.05.48:456][352]LogTexture: Display: Building textures: Texture2D_16 (G8, 64X64)
+[2021.02.06-17.05.49:064][369]LogTexture: Display: Building textures: Texture2D_17 (G8, 64X64)
+[2021.02.06-17.05.49:124][370]LogTexture: Display: Building textures: Texture2D_18 (G8, 64X64)
+[2021.02.06-17.05.49:130][370]LogTexture: Display: Building textures: Texture2D_19 (G8, 64X64)
+[2021.02.06-17.05.49:135][370]LogTexture: Display: Building textures: Texture2D_20 (G8, 64X64)
+[2021.02.06-17.05.49:141][370]LogTexture: Display: Building textures: Texture2D_21 (G8, 64X64)
+[2021.02.06-17.05.49:246][372]LogTexture: Display: Building textures: Texture2D_22 (G8, 64X64)
+[2021.02.06-17.05.49:250][372]LogTexture: Display: Building textures: Texture2D_23 (G8, 64X64)
+[2021.02.06-17.05.49:254][372]LogTexture: Display: Building textures: Texture2D_24 (G8, 64X64)
+[2021.02.06-17.05.49:747][387]LogTexture: Display: Building textures: Texture2D_25 (G8, 64X64)
+[2021.02.06-17.05.49:753][387]LogTexture: Display: Building textures: Texture2D_26 (G8, 64X64)
+[2021.02.06-17.05.49:759][387]LogTexture: Display: Building textures: Texture2D_27 (G8, 64X64)
+[2021.02.06-17.05.49:804][388]LogTexture: Display: Building textures: Texture2D_28 (G8, 64X64)
+[2021.02.06-17.05.49:812][388]LogTexture: Display: Building textures: Texture2D_29 (G8, 64X64)
+[2021.02.06-17.05.49:818][388]LogTexture: Display: Building textures: Texture2D_30 (G8, 64X64)
+[2021.02.06-17.05.50:695][421]LogTexture: Display: Building textures: Texture2D_31 (G8, 64X64)
+[2021.02.06-17.05.51:421][440]LogTexture: Display: Building textures: Texture2D_32 (G8, 64X64)
+[2021.02.06-17.05.52:152][456]LogTexture: Display: Building textures: Texture2D_33 (G8, 64X64)
+[2021.02.06-17.05.52:157][456]LogTexture: Display: Building textures: Texture2D_34 (G8, 64X64)
+[2021.02.06-17.05.52:163][456]LogTexture: Display: Building textures: Texture2D_35 (G8, 64X64)
+[2021.02.06-17.06.02:148][851]Cmd: TRANSACTION UNDO
+[2021.02.06-17.06.02:148][851]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.06.02:333][851]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.06.09:454][147]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.02.06-17.06.12:262][283]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.02.06-17.06.12:888][298]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.02.06-17.06.13:402][312]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.02.06-17.06.13:840][326]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.02.06-17.06.14:175][342]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.02.06-17.06.14:603][355]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2021.02.06-17.06.14:685][356]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.02.06-17.06.15:022][366]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.02.06-17.06.15:785][394]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.02.06-17.06.16:083][402]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.02.06-17.06.16:158][403]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.02.06-17.06.16:238][404]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.02.06-17.06.16:394][408]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.02.06-17.06.19:064][525]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.02.06-17.06.20:093][555]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.02.06-17.06.20:736][572]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.02.06-17.06.26:427][790]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.02.06-17.06.39:894][303]Cmd: TRANSACTION UNDO
+[2021.02.06-17.06.39:894][303]LogEditorTransaction: Undo Move Actors
+[2021.02.06-17.06.39:974][303]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.02.06-17.06.52:775][781]Cmd: TRANSACTION UNDO
+[2021.02.06-17.06.52:776][781]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.06-17.06.53:604][795]Cmd: TRANSACTION UNDO
+[2021.02.06-17.06.53:605][795]LogEditorTransaction: Undo Landscape Editing: Add New Landscape Component
+[2021.02.06-17.06.53:837][795]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.06.53:850][795]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.02.06-17.06.53:855][795]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.02.06-17.06.53:859][795]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.02.06-17.06.53:865][795]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.02.06-17.06.55:628][848]Cmd: TRANSACTION REDO
+[2021.02.06-17.06.55:628][848]LogEditorTransaction: Redo Landscape Editing: Add New Landscape Component
+[2021.02.06-17.06.55:707][848]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.02.06-17.06.55:709][848]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.02.06-17.06.55:712][848]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.02.06-17.06.55:715][848]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.02.06-17.06.55:718][848]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.06.55:735][848]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.02.06-17.06.55:770][849]Cmd: TRANSACTION REDO
+[2021.02.06-17.06.55:770][849]LogEditorTransaction: Redo Clicking on Actors
+[2021.02.06-17.06.55:908][854]Cmd: TRANSACTION REDO
+[2021.02.06-17.06.55:908][854]LogEditorTransaction: Redo Move Actors
+[2021.02.06-17.07.11:546][361]Cmd: TRANSACTION UNDO
+[2021.02.06-17.07.11:546][361]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.07.15:308][468]Cmd: TRANSACTION UNDO
+[2021.02.06-17.07.15:308][468]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.07.15:665][468]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.08.12:599][799]Cmd: MODE SCALEGRID=0
+[2021.02.06-17.08.15:061][904]Cmd: MODE GRID=0
+[2021.02.06-17.08.15:467][928]Cmd: MODE GRID=1
+[2021.02.06-17.08.16:387][976]Cmd: MODE ROTGRID=0
+[2021.02.06-17.08.20:562][112]Cmd: MODE ROTGRID=1
+[2021.02.06-17.08.22:083][187]Cmd: MODE SCALEGRID=1
+[2021.02.06-17.09.17:060][582]Cmd: TRANSACTION UNDO
+[2021.02.06-17.09.17:061][582]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.09.17:142][582]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.09.31:090][395]Cmd: TRANSACTION UNDO
+[2021.02.06-17.09.31:090][395]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.09.31:157][395]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.10.02:572][ 27]Cmd: TRANSACTION UNDO
+[2021.02.06-17.10.02:572][ 27]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.10.02:691][ 27]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.10.02:872][ 34]Cmd: TRANSACTION UNDO
+[2021.02.06-17.10.02:872][ 34]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.02.06-17.10.04:941][148]Cmd: TRANSACTION UNDO
+[2021.02.06-17.10.04:941][148]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.10.05:005][148]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.10.07:164][265]Cmd: TRANSACTION UNDO
+[2021.02.06-17.10.07:164][265]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.11.08:462][542]Cmd: TRANSACTION UNDO
+[2021.02.06-17.11.08:462][542]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.02.06-17.11.08:544][542]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.11.11:707][723]Cmd: TRANSACTION UNDO
+[2021.02.06-17.11.11:707][723]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.02.06-17.12.02:936][762]Cmd: TRANSACTION UNDO
+[2021.02.06-17.12.02:936][762]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.02.06-17.12.03:014][762]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.13.23:186][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.02.06-17.13.23:206][576]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.13.23:209][576]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.02.06-17.13.23:209][576]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.02.06-17.13.23:210][576]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.02.06-17.13.23:210][576]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.02.06-17.13.23:211][576]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2021.02.06-17.13.23:211][576]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.02.06-17.13.23:212][576]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.02.06-17.13.23:212][576]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.02.06-17.13.23:213][576]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.02.06-17.13.23:213][576]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.02.06-17.13.23:214][576]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.02.06-17.13.23:214][576]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.02.06-17.13.23:322][576]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap39E58751451060D687E382BCD44F5E79.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-17.13.23:419][576]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataDC363CB547C16CA7DCC788B6D609A79A.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-17.13.23:428][576]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-17.13.23:428][576]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-17.13.23:428][576]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-17.13.24:429][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.02.06-17.13.24:546][635]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap3624892F47F693229042EF80C4E8737F.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-17.13.24:626][635]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData40045183432C4D4D937D54ACC771A7E1.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-17.13.24:634][635]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-17.13.24:634][635]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-17.13.24:634][635]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
