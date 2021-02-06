@@ -696,3 +696,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.06-16.05.16:340][637]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.06-16.05.16:340][637]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.02.06-16.05.16:340][637]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.07.57:589][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
