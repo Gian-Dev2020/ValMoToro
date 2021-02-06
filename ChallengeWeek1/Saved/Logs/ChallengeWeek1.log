@@ -676,3 +676,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.06-16.03.00:101][873]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.06-16.03.00:102][873]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.02.06-16.03.00:102][873]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.04.04:060][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.06-16.04.04:447][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.02.06-16.04.04:471][521]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMapC6DE05C0426BC72F628E07B8BC695DE7.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.04.04:569][521]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataAF1D9A434982CB96D18CAFB58C32DDA7.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.04.04:579][521]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.04.04:579][521]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.04.04:579][521]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.04.50:596][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.06-16.05.15:212][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.02.06-16.05.15:235][543]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap864773124D8AB9CB6F9006ABBD41A5CC.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.05.15:332][543]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataE7B225954FCE0387BF89C29B01A7F675.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.05.15:342][543]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.05.15:342][543]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.05.15:342][543]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.05.16:212][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.02.06-16.05.16:235][637]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMapB04A407A4A1EADE121FA6696B46A915C.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.05.16:330][637]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData40F63D32449857F06F20EFA3AC0C1A56.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.05.16:340][637]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.05.16:340][637]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.05.16:340][637]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
