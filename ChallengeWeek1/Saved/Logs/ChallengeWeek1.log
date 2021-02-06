@@ -729,3 +729,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.06-16.13.32:456][140]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.02.06-16.13.32:456][140]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.02.06-16.13.32:970][184]LogSlate: Took 0.001938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.06-16.27.06:582][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.02.06-16.27.06:615][ 17]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap950F52EA4DB0A775F58E0B83A2B54931.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.27.06:733][ 17]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData70C052AB425C8F01DBBA1DA032911CA4.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.27.06:758][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.27.06:758][ 17]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.27.06:758][ 17]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
