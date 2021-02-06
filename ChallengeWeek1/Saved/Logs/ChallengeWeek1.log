@@ -741,3 +741,152 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.06-16.41.47:087][973]LogEditorTransaction: Undo Clicking on Actors
 [2021.02.06-16.41.47:327][980]Cmd: TRANSACTION UNDO
 [2021.02.06-16.41.47:327][980]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.06-16.50.42:774][729]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.02.06-16.50.48:257][ 50]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.02.06-16.50.48:855][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.02.06-16.50.48:965][ 90]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.02.06-16.50.49:232][105]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2021.02.06-16.50.54:527][411]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.50.54:532][411]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 90
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 89
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 88
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 87
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 86
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 85
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 84
+[2021.02.06-16.50.55:240][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 83
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 82
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 81
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 80
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 79
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 78
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 77
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 76
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 75
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 74
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 73
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 72
+[2021.02.06-16.50.55:799][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 71
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 70
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 69
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 68
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 67
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 65
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 64
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 63
+[2021.02.06-16.50.56:357][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 62
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 61
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 60
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 56
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 55
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 54
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 53
+[2021.02.06-16.50.56:915][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 52
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 51
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 50
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 45
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 40
+[2021.02.06-16.50.57:473][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 38
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 31
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.02.06-16.50.58:032][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 25
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2021.02.06-16.50.58:589][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.02.06-16.50.59:145][411]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.02.06-16.50.59:702][411]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.02.06-16.51.00:047][411]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.02.06-16.52.01:840][673]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2021.02.06-16.52.02:968][673]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-16.52.02:968][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-16.52.03:242][673]LogRenderer: Reallocating scene render targets to support 1144x744 Format 10 NumSamples 1 (Frame:1).
+[2021.02.06-16.52.11:016][ 27]LogSlate: Window 'SM_SkySphere' being destroyed
+[2021.02.06-16.52.11:063][ 27]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.02.06-16.52.11:064][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.06-16.53.00:857][476]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.02.06-16.53.12:018][148]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.02.06-16.53.14:814][275]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.14:814][275]LogEditorTransaction: Undo Replace component used material
+[2021.02.06-16.53.15:084][280]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.15:084][280]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.53.15:240][284]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.15:240][284]LogEditorTransaction: Undo Replace component used material
+[2021.02.06-16.53.15:422][296]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.15:422][296]LogEditorTransaction: Undo Replace component used material
+[2021.02.06-16.53.15:587][312]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.15:587][312]LogEditorTransaction: Undo Replace component used material
+[2021.02.06-16.53.15:760][329]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.15:760][329]LogEditorTransaction: Undo Replace component used material
+[2021.02.06-16.53.23:024][805]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.02.06-16.53.29:265][133]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.29:266][133]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2021.02.06-16.53.29:539][139]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.29:539][139]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2021.02.06-16.53.29:778][143]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.29:779][143]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2021.02.06-16.53.30:249][161]Cmd: TRANSACTION UNDO
+[2021.02.06-16.53.30:249][161]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2021.02.06-16.53.31:858][281]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.02.06-16.54.06:548][401]LogMaterial: Display: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 38
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.02.06-16.54.06:597][401]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.02.06-16.55.08:225][319]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.02.06-16.55.08:693][354]LogEditorViewport: Clicking Background
+[2021.02.06-16.55.09:081][372]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2021.02.06-16.55.09:991][406]LogEditorViewport: Clicking Background
+[2021.02.06-16.55.57:430][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.02.06-16.55.57:454][336]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.55.57:637][336]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMapC62453B340A552F8493682B0CC942F37.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.55.57:945][336]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataC590041E42AEF2610BFA9D9476B4F375.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.55.57:979][336]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.55.57:979][336]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.55.57:979][336]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
