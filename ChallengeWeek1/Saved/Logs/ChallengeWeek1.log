@@ -712,3 +712,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.06-17.43.42:336][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
 [2021.02.06-17.43.42:357][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2021.02.06-17.43.42:368][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.02.06-17.47.39:210][507]LogUProjectInfo: Found projects:
+[2021.02.06-17.47.39:214][507]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2021.02.06-17.47.39:214][507]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.02.06-17.47.39:242][507]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
