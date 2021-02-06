@@ -890,3 +890,308 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.06-16.55.57:979][336]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.06-16.55.57:979][336]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.02.06-16.55.57:979][336]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.57.07:464][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.02.06-16.57.09:215][581]LogSlate: Window 'Save Content' being destroyed
+[2021.02.06-16.57.10:334][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.02.06-16.57.11:318][640]LogSlate: Window 'Save Content' being destroyed
+[2021.02.06-16.57.11:379][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.02.06-16.57.11:393][640]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.57.11:512][640]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap008628DF418226723F021295CE1A0C35.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.57.11:530][640]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.169
+[2021.02.06-16.57.11:642][640]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData440CA99F4AB044D9802789BE8D4873E3.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.57.11:663][640]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.57.11:663][640]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.57.11:663][640]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.57.12:712][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.02.06-16.57.12:955][712]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap5F321B9642F41026E98F5987697F266E.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.57.13:213][712]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData1484AA3E4AE6ACE3A4F2E0A0E32AFD98.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.57.13:249][712]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.57.13:249][712]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.57.13:249][712]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.58.08:475][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.02.06-16.58.08:849][688]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap15A6F7924F4999C43DC4B1AFDE214A34.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-16.58.09:209][688]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataBFA9DF4E42CC9B2727EAF3AC2ECF5688.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-16.58.09:229][688]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-16.58.09:229][688]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-16.58.09:229][688]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.58.22:297][482]Cmd: TRANSACTION UNDO
+[2021.02.06-16.58.22:297][482]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2021.02.06-16.58.22:342][482]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.58.23:754][523]Cmd: TRANSACTION UNDO
+[2021.02.06-16.58.23:754][523]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-16.58.57:390][ 90]Cmd: TRANSACTION UNDO
+[2021.02.06-16.58.57:390][ 90]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.58.57:442][ 90]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.58.57:640][ 98]Cmd: TRANSACTION UNDO
+[2021.02.06-16.58.57:640][ 98]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.58.57:684][ 98]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.58.57:804][101]Cmd: TRANSACTION UNDO
+[2021.02.06-16.58.57:804][101]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.59.44:204][399]Cmd: TRANSACTION UNDO
+[2021.02.06-16.59.44:204][399]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.59.44:303][399]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.59.44:444][403]Cmd: TRANSACTION UNDO
+[2021.02.06-16.59.44:444][403]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.59.44:525][403]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.59.44:620][405]Cmd: TRANSACTION UNDO
+[2021.02.06-16.59.44:620][405]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-16.59.44:699][405]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-16.59.49:847][627]Cmd: TRANSACTION UNDO
+[2021.02.06-16.59.49:847][627]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.00.21:885][104]LogEditorViewport: Clicking Background
+[2021.02.06-17.00.22:264][119]LogEditorViewport: Clicking Background
+[2021.02.06-17.00.24:372][196]LogEditorViewport: Clicking Background
+[2021.02.06-17.00.24:629][217]LogEditorViewport: Clicking Background
+[2021.02.06-17.00.53:688][231]LogEditorViewport: Clicking Background
+[2021.02.06-17.00.54:028][255]LogEditorViewport: Clicking Background
+[2021.02.06-17.01.19:796][284]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.19:796][284]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.02.06-17.01.19:975][284]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:018][284]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:019][284]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.02.06-17.01.20:135][284]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:157][284]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:157][284]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.02.06-17.01.20:254][284]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:358][286]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:358][286]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.20:420][286]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:490][288]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:490][288]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.20:562][288]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:655][292]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:655][292]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.20:740][292]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.20:835][296]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.20:835][296]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.20:916][296]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:004][300]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:004][300]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:081][300]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:180][304]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:180][304]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:262][304]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:364][309]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:364][309]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:435][309]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:555][315]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:555][315]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:648][315]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:739][319]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:739][319]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:825][319]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.21:920][323]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.21:920][323]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.21:989][323]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.22:116][330]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.22:116][330]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.22:193][330]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.22:325][336]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.22:325][336]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.22:414][336]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.22:502][340]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.22:502][340]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.22:577][340]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.22:704][346]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.22:704][346]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.22:784][346]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.22:902][352]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.22:902][352]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.22:965][352]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.23:077][357]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.23:077][357]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.23:147][357]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.23:269][363]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.23:270][363]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.23:333][363]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.23:466][370]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.23:466][370]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.23:540][370]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.23:644][375]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.23:644][375]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.23:744][375]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.23:868][381]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.23:868][381]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.23:953][381]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.24:062][386]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.24:062][386]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.24:159][386]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.24:249][390]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.24:249][390]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.24:339][390]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.24:445][395]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.24:445][395]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.06-17.01.24:628][405]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.24:628][405]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.24:708][405]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.24:816][411]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.24:816][411]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.24:898][411]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.25:003][417]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.25:003][417]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.25:073][417]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.25:192][424]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.25:192][424]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.25:258][424]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.26:685][512]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.26:686][512]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.26:856][512]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.26:884][512]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.26:884][512]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.27:029][512]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.43:716][167]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.43:716][167]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.43:886][167]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.44:303][185]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.44:303][185]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.44:377][185]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.01.44:663][210]Cmd: TRANSACTION UNDO
+[2021.02.06-17.01.44:663][210]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.01.44:723][210]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.03.49:881][205]Cmd: TRANSACTION UNDO
+[2021.02.06-17.03.49:882][205]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.03.50:029][205]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.03.52:974][314]Cmd: TRANSACTION UNDO
+[2021.02.06-17.03.52:974][314]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.05.40:288][ 36]LogTexture: Display: Building textures: Texture2D_1 (G8, 64X64)
+[2021.02.06-17.05.40:291][ 36]LogTexture: Display: Building textures: Texture2D_2 (G8, 64X64)
+[2021.02.06-17.05.40:293][ 36]LogTexture: Display: Building textures: Texture2D_3 (G8, 64X64)
+[2021.02.06-17.05.40:296][ 36]LogTexture: Display: Building textures: Texture2D_4 (G8, 64X64)
+[2021.02.06-17.05.40:412][ 38]LogTexture: Display: Building textures: Texture2D_5 (G8, 64X64)
+[2021.02.06-17.05.40:477][ 40]LogTexture: Display: Building textures: Texture2D_6 (G8, 64X64)
+[2021.02.06-17.05.40:760][ 49]LogTexture: Display: Building textures: Texture2D_7 (G8, 64X64)
+[2021.02.06-17.05.41:184][ 62]LogTexture: Display: Building textures: Texture2D_8 (G8, 64X64)
+[2021.02.06-17.05.41:403][ 74]LogTexture: Display: Building textures: Texture2D_9 (G8, 64X64)
+[2021.02.06-17.05.41:417][ 74]LogTexture: Display: Building textures: Texture2D_10 (G8, 64X64)
+[2021.02.06-17.05.42:103][117]Cmd: TRANSACTION UNDO
+[2021.02.06-17.05.42:103][117]LogEditorTransaction: Undo Landscape Editing: Region Selection
+[2021.02.06-17.05.48:423][352]LogTexture: Display: Building textures: Texture2D_11 (G8, 64X64)
+[2021.02.06-17.05.48:429][352]LogTexture: Display: Building textures: Texture2D_12 (G8, 64X64)
+[2021.02.06-17.05.48:435][352]LogTexture: Display: Building textures: Texture2D_13 (G8, 64X64)
+[2021.02.06-17.05.48:443][352]LogTexture: Display: Building textures: Texture2D_14 (G8, 64X64)
+[2021.02.06-17.05.48:450][352]LogTexture: Display: Building textures: Texture2D_15 (G8, 64X64)
+[2021.02.06-17.05.48:456][352]LogTexture: Display: Building textures: Texture2D_16 (G8, 64X64)
+[2021.02.06-17.05.49:064][369]LogTexture: Display: Building textures: Texture2D_17 (G8, 64X64)
+[2021.02.06-17.05.49:124][370]LogTexture: Display: Building textures: Texture2D_18 (G8, 64X64)
+[2021.02.06-17.05.49:130][370]LogTexture: Display: Building textures: Texture2D_19 (G8, 64X64)
+[2021.02.06-17.05.49:135][370]LogTexture: Display: Building textures: Texture2D_20 (G8, 64X64)
+[2021.02.06-17.05.49:141][370]LogTexture: Display: Building textures: Texture2D_21 (G8, 64X64)
+[2021.02.06-17.05.49:246][372]LogTexture: Display: Building textures: Texture2D_22 (G8, 64X64)
+[2021.02.06-17.05.49:250][372]LogTexture: Display: Building textures: Texture2D_23 (G8, 64X64)
+[2021.02.06-17.05.49:254][372]LogTexture: Display: Building textures: Texture2D_24 (G8, 64X64)
+[2021.02.06-17.05.49:747][387]LogTexture: Display: Building textures: Texture2D_25 (G8, 64X64)
+[2021.02.06-17.05.49:753][387]LogTexture: Display: Building textures: Texture2D_26 (G8, 64X64)
+[2021.02.06-17.05.49:759][387]LogTexture: Display: Building textures: Texture2D_27 (G8, 64X64)
+[2021.02.06-17.05.49:804][388]LogTexture: Display: Building textures: Texture2D_28 (G8, 64X64)
+[2021.02.06-17.05.49:812][388]LogTexture: Display: Building textures: Texture2D_29 (G8, 64X64)
+[2021.02.06-17.05.49:818][388]LogTexture: Display: Building textures: Texture2D_30 (G8, 64X64)
+[2021.02.06-17.05.50:695][421]LogTexture: Display: Building textures: Texture2D_31 (G8, 64X64)
+[2021.02.06-17.05.51:421][440]LogTexture: Display: Building textures: Texture2D_32 (G8, 64X64)
+[2021.02.06-17.05.52:152][456]LogTexture: Display: Building textures: Texture2D_33 (G8, 64X64)
+[2021.02.06-17.05.52:157][456]LogTexture: Display: Building textures: Texture2D_34 (G8, 64X64)
+[2021.02.06-17.05.52:163][456]LogTexture: Display: Building textures: Texture2D_35 (G8, 64X64)
+[2021.02.06-17.06.02:148][851]Cmd: TRANSACTION UNDO
+[2021.02.06-17.06.02:148][851]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.06.02:333][851]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.06.09:454][147]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2021.02.06-17.06.12:262][283]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.02.06-17.06.12:888][298]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.02.06-17.06.13:402][312]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.02.06-17.06.13:840][326]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.02.06-17.06.14:175][342]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.02.06-17.06.14:603][355]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2021.02.06-17.06.14:685][356]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.02.06-17.06.15:022][366]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.02.06-17.06.15:785][394]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.02.06-17.06.16:083][402]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.02.06-17.06.16:158][403]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.02.06-17.06.16:238][404]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.02.06-17.06.16:394][408]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.02.06-17.06.19:064][525]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.02.06-17.06.20:093][555]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.02.06-17.06.20:736][572]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.02.06-17.06.26:427][790]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.02.06-17.06.39:894][303]Cmd: TRANSACTION UNDO
+[2021.02.06-17.06.39:894][303]LogEditorTransaction: Undo Move Actors
+[2021.02.06-17.06.39:974][303]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.02.06-17.06.52:775][781]Cmd: TRANSACTION UNDO
+[2021.02.06-17.06.52:776][781]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.06-17.06.53:604][795]Cmd: TRANSACTION UNDO
+[2021.02.06-17.06.53:605][795]LogEditorTransaction: Undo Landscape Editing: Add New Landscape Component
+[2021.02.06-17.06.53:837][795]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.06.53:850][795]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.02.06-17.06.53:855][795]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.02.06-17.06.53:859][795]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.02.06-17.06.53:865][795]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.02.06-17.06.55:628][848]Cmd: TRANSACTION REDO
+[2021.02.06-17.06.55:628][848]LogEditorTransaction: Redo Landscape Editing: Add New Landscape Component
+[2021.02.06-17.06.55:707][848]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2021.02.06-17.06.55:709][848]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2021.02.06-17.06.55:712][848]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2021.02.06-17.06.55:715][848]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.02.06-17.06.55:718][848]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.06.55:735][848]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2021.02.06-17.06.55:770][849]Cmd: TRANSACTION REDO
+[2021.02.06-17.06.55:770][849]LogEditorTransaction: Redo Clicking on Actors
+[2021.02.06-17.06.55:908][854]Cmd: TRANSACTION REDO
+[2021.02.06-17.06.55:908][854]LogEditorTransaction: Redo Move Actors
+[2021.02.06-17.07.11:546][361]Cmd: TRANSACTION UNDO
+[2021.02.06-17.07.11:546][361]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.07.15:308][468]Cmd: TRANSACTION UNDO
+[2021.02.06-17.07.15:308][468]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.07.15:665][468]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.08.12:599][799]Cmd: MODE SCALEGRID=0
+[2021.02.06-17.08.15:061][904]Cmd: MODE GRID=0
+[2021.02.06-17.08.15:467][928]Cmd: MODE GRID=1
+[2021.02.06-17.08.16:387][976]Cmd: MODE ROTGRID=0
+[2021.02.06-17.08.20:562][112]Cmd: MODE ROTGRID=1
+[2021.02.06-17.08.22:083][187]Cmd: MODE SCALEGRID=1
+[2021.02.06-17.09.17:060][582]Cmd: TRANSACTION UNDO
+[2021.02.06-17.09.17:061][582]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.09.17:142][582]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.09.31:090][395]Cmd: TRANSACTION UNDO
+[2021.02.06-17.09.31:090][395]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.02.06-17.09.31:157][395]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.10.02:572][ 27]Cmd: TRANSACTION UNDO
+[2021.02.06-17.10.02:572][ 27]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.10.02:691][ 27]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.10.02:872][ 34]Cmd: TRANSACTION UNDO
+[2021.02.06-17.10.02:872][ 34]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.02.06-17.10.04:941][148]Cmd: TRANSACTION UNDO
+[2021.02.06-17.10.04:941][148]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.10.05:005][148]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.10.07:164][265]Cmd: TRANSACTION UNDO
+[2021.02.06-17.10.07:164][265]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2021.02.06-17.11.08:462][542]Cmd: TRANSACTION UNDO
+[2021.02.06-17.11.08:462][542]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.02.06-17.11.08:544][542]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.11.11:707][723]Cmd: TRANSACTION UNDO
+[2021.02.06-17.11.11:707][723]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.02.06-17.12.02:936][762]Cmd: TRANSACTION UNDO
+[2021.02.06-17.12.02:936][762]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.02.06-17.12.03:014][762]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.13.23:186][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.02.06-17.13.23:206][576]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.02.06-17.13.23:209][576]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2021.02.06-17.13.23:209][576]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2021.02.06-17.13.23:210][576]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2021.02.06-17.13.23:210][576]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2021.02.06-17.13.23:211][576]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2021.02.06-17.13.23:211][576]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2021.02.06-17.13.23:212][576]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2021.02.06-17.13.23:212][576]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2021.02.06-17.13.23:213][576]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2021.02.06-17.13.23:213][576]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2021.02.06-17.13.23:214][576]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2021.02.06-17.13.23:214][576]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2021.02.06-17.13.23:322][576]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap39E58751451060D687E382BCD44F5E79.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-17.13.23:419][576]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltDataDC363CB547C16CA7DCC788B6D609A79A.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-17.13.23:428][576]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-17.13.23:428][576]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-17.13.23:428][576]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-17.13.24:429][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.02.06-17.13.24:546][635]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap3624892F47F693229042EF80C4E8737F.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.02.06-17.13.24:626][635]LogSavePackage: Moving '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Saved/ThirdPersonExampleMap_BuiltData40045183432C4D4D937D54ACC771A7E1.tmp' to '../../../../../Users/giant/Documents/GitHub/ValMoToro/ChallengeWeek1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.02.06-17.13.24:634][635]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.06-17.13.24:634][635]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.02.06-17.13.24:634][635]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
