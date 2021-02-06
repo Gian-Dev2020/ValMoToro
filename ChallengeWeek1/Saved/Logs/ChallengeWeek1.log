@@ -735,3 +735,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.06-16.27.06:758][ 17]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.06-16.27.06:758][ 17]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.02.06-16.27.06:758][ 17]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.02.06-16.41.45:608][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.06-16.41.46:776][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2021.02.06-16.41.47:087][973]Cmd: TRANSACTION UNDO
+[2021.02.06-16.41.47:087][973]LogEditorTransaction: Undo Clicking on Actors
+[2021.02.06-16.41.47:327][980]Cmd: TRANSACTION UNDO
+[2021.02.06-16.41.47:327][980]LogEditorTransaction: Undo Clicking on Actors
